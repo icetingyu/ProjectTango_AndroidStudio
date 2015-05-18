@@ -1,0 +1,6 @@
+include ':TangoUtils'
+include ':AreaLearningJava'
+include ':PointCloudJava'
+include ':VideoOverlaySample'
+include ':QuickstartJava'
+include ':MotionTrackingJava'
