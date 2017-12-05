@@ -1,4 +1,4 @@
-# ProjectTango_AndroidStudio
+# ProjectTango_AndroidStudio [Android]
 Converted Android Studio projects for Google Project Tango  (2015-05-19  Version 1.1 Leibniz)
 - Will update to latest 1.11 Nash in days)
 
